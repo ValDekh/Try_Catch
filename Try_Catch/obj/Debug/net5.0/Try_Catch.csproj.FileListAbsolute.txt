@@ -1,0 +1,16 @@
+E:\IT\C# Lesson\Trainee\Try_Catch\Try_Catch\bin\Debug\net5.0\Try_Catch.exe
+E:\IT\C# Lesson\Trainee\Try_Catch\Try_Catch\bin\Debug\net5.0\Try_Catch.deps.json
+E:\IT\C# Lesson\Trainee\Try_Catch\Try_Catch\bin\Debug\net5.0\Try_Catch.runtimeconfig.json
+E:\IT\C# Lesson\Trainee\Try_Catch\Try_Catch\bin\Debug\net5.0\Try_Catch.runtimeconfig.dev.json
+E:\IT\C# Lesson\Trainee\Try_Catch\Try_Catch\bin\Debug\net5.0\Try_Catch.dll
+E:\IT\C# Lesson\Trainee\Try_Catch\Try_Catch\bin\Debug\net5.0\ref\Try_Catch.dll
+E:\IT\C# Lesson\Trainee\Try_Catch\Try_Catch\bin\Debug\net5.0\Try_Catch.pdb
+E:\IT\C# Lesson\Trainee\Try_Catch\Try_Catch\obj\Debug\net5.0\Try_Catch.csproj.AssemblyReference.cache
+E:\IT\C# Lesson\Trainee\Try_Catch\Try_Catch\obj\Debug\net5.0\Try_Catch.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT\C# Lesson\Trainee\Try_Catch\Try_Catch\obj\Debug\net5.0\Try_Catch.AssemblyInfoInputs.cache
+E:\IT\C# Lesson\Trainee\Try_Catch\Try_Catch\obj\Debug\net5.0\Try_Catch.AssemblyInfo.cs
+E:\IT\C# Lesson\Trainee\Try_Catch\Try_Catch\obj\Debug\net5.0\Try_Catch.csproj.CoreCompileInputs.cache
+E:\IT\C# Lesson\Trainee\Try_Catch\Try_Catch\obj\Debug\net5.0\Try_Catch.dll
+E:\IT\C# Lesson\Trainee\Try_Catch\Try_Catch\obj\Debug\net5.0\ref\Try_Catch.dll
+E:\IT\C# Lesson\Trainee\Try_Catch\Try_Catch\obj\Debug\net5.0\Try_Catch.pdb
+E:\IT\C# Lesson\Trainee\Try_Catch\Try_Catch\obj\Debug\net5.0\Try_Catch.genruntimeconfig.cache

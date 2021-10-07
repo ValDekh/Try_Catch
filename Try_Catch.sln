@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try_Catch", "Try_Catch\Try_Catch.csproj", "{5AE97A51-8FC4-400E-AE30-1D1839494005}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloApp", "HelloApp\HelloApp.csproj", "{11CE9AAD-C473-4A4B-BC5E-9116944F046F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AE97A51-8FC4-400E-AE30-1D1839494005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE97A51-8FC4-400E-AE30-1D1839494005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE97A51-8FC4-400E-AE30-1D1839494005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE97A51-8FC4-400E-AE30-1D1839494005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11CE9AAD-C473-4A4B-BC5E-9116944F046F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11CE9AAD-C473-4A4B-BC5E-9116944F046F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11CE9AAD-C473-4A4B-BC5E-9116944F046F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11CE9AAD-C473-4A4B-BC5E-9116944F046F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
